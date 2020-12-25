@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8aa9ca5feb53bfa43941bf8ba977c599
+timeCreated: 1529382664
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: iCiel Atlas Typewriter
+  fontNames:
+  - iCiel Atlas Typewriter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

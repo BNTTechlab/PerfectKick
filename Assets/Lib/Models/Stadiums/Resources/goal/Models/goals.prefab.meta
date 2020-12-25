@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 391f2f5ce039f0b48910052a362aa981
+labels:
+- Ball
+- Field
+- Ground
+- Motorbike
+- Track
+- Stadium
+- Soccer
+- Football
+- Runway
+- Crowd
+- Tribune
+- Roofs
+- Sport
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

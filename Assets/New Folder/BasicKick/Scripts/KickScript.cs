@@ -21,7 +21,7 @@ public class KickScript : MonoBehaviour
 	GameObject rightAnkle;//gót chân phải
 	GameObject leftAnkle;//gót chân trái
 	GameObject head;
-	GameObject hip;//hông phải
+	public GameObject hip;//hông phải
 	GameObject hip2;//hông trái
 	GameObject ball;
    

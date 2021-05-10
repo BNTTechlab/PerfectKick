@@ -215,7 +215,7 @@ public class ScriptHandler : MonoBehaviour
 
         ball = Instantiate(Ball, new Vector3(transform.position.x, transform.position.y, transform.position.z), Quaternion.identity) as GameObject;
 
-        ball.GetComponent<BallScript> ().getTarget (ballLauch, target);
+        ball.GetComponent<BallScript>().getTarget (ballLauch, target);
     }
 
     public void ballMove(float[] pr, bool foot)

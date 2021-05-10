@@ -199,7 +199,7 @@ public class BallScript : MonoBehaviour {
         {
             dis = 0;
         }
-        yAxis = dis * 2.3f / 0.45f;
+        yAxis = dis * 1f / 0.45f;
         gameObject.GetComponent<Rigidbody>().AddForce(new Vector3(xAxis, yAxis, 1.0f) * 130);
 
         //ballLauncher.GetComponent<BallLauncher>().Launch(gameObject.GetComponent<Rigidbody>(), Target.transform);
@@ -341,7 +341,7 @@ public class BallScript : MonoBehaviour {
         {
             dis = 0;
         }
-        float yAxist = dis * 2.3f / 0.45f;
+        float yAxist = dis * 1f / 0.45f;
         gameObject.GetComponent<Rigidbody>().AddForce(new Vector3(xAxist + 0.2f, yAxist, 1.0f) * 130);
 
 
